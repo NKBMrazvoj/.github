@@ -1,4 +1,4 @@
-# NKBM
+# NKBM Public
 
 ## Introduction
 
@@ -7,14 +7,6 @@ Welcome to our organization! We are a group of individuals who are passionate ab
 ## Our Mission
 
 Make NKBM great again.
-
-## Projects
-
-Here are some of the projects that we are currently working on:
-
-- Project 1: KYC
-- Project 2: Kairos
-- Project 3: R DevOps
 
 ## How to Get Involved
 
